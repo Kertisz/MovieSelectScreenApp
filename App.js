@@ -143,7 +143,7 @@ return (
           <TouchableOpacity style={{marginRight: 15, marginTop: 15}}>
           <Icon 
           name="queue" 
-          color="#696969" 
+          color="#000" 
           size={30} 
           />
           </TouchableOpacity>
@@ -237,7 +237,7 @@ const styles = StyleSheet.create({
     paddingLeft: 15,
     fontSize: 22,
     fontWeight: 'bold',
-    color: '#131313',
+    color: '#696969',
     marginBottom: 10,
     marginTop:10
 
